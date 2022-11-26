@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TutorailCPP_20221125.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\KID\Projects\Unreal\Unreal_TutorialCPP_20221125\TutorailCPP_20221125\Intermediate\Build\Win64\TutorailCPP_20221125Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\KID\Projects\Unreal\Unreal_TutorialCPP_20221125\TutorailCPP_20221125\Intermediate\Build\Win64\UnrealEditor\Development\TutorailCPP_20221125\TutorailCPP_20221125.cpp.obj"
+"C:\KID\Projects\Unreal\Unreal_TutorialCPP_20221125\TutorailCPP_20221125\Intermediate\Build\Win64\UnrealEditor\Development\TutorailCPP_20221125\TutorailCPP_20221125GameModeBase.cpp.obj"
+"C:\KID\Projects\Unreal\Unreal_TutorialCPP_20221125\TutorailCPP_20221125\Intermediate\Build\Win64\UnrealEditor\Development\TutorailCPP_20221125\TutorailCPP_20221125.init.gen.cpp.obj"
+"C:\KID\Projects\Unreal\Unreal_TutorialCPP_20221125\TutorailCPP_20221125\Intermediate\Build\Win64\UnrealEditor\Development\TutorailCPP_20221125\TutorailCPP_20221125GameModeBase.gen.cpp.obj"
+"C:\KID\Projects\Unreal\Unreal_TutorialCPP_20221125\TutorailCPP_20221125\Intermediate\Build\Win64\UnrealEditor\Development\TutorailCPP_20221125\Default.rc2.res"
+/OUT:"C:\KID\Projects\Unreal\Unreal_TutorialCPP_20221125\TutorailCPP_20221125\Intermediate\Build\Win64\UnrealEditor\Development\TutorailCPP_20221125\UnrealEditor-TutorailCPP_20221125.lib"

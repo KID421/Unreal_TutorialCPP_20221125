@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\kid\\projects\\unreal\\unreal_tutorialcpp_20221125\\tutorailcpp_20221125\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorailcpp_20221125\\tutorailcpp_20221125.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kid\\projects\\unreal\\unreal_tutorialcpp_20221125\\tutorailcpp_20221125\\intermediate\\build\\win64\\tutorailcpp_20221125editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\kid\\projects\\unreal\\unreal_tutorialcpp_20221125\\tutorailcpp_20221125\\intermediate\\build\\win64\\unrealeditor\\development\\tutorailcpp_20221125\\definitions.tutorailcpp_20221125.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

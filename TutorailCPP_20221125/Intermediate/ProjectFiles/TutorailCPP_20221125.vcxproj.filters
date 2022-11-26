@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TutorailCPP_20221125.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TutorailCPP_20221125.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TutorailCPP_20221125Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TutorailCPP_20221125">
+      <UniqueIdentifier>{FC8E89DB-DDC5-3F64-8BF3-D69E518D254D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TutorailCPP_20221125\TutorailCPP_20221125.Build.cs">
+      <Filter>Source\TutorailCPP_20221125</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TutorailCPP_20221125\TutorailCPP_20221125.cpp">
+      <Filter>Source\TutorailCPP_20221125</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorailCPP_20221125\TutorailCPP_20221125.h">
+      <Filter>Source\TutorailCPP_20221125</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TutorailCPP_20221125\TutorailCPP_20221125GameModeBase.cpp">
+      <Filter>Source\TutorailCPP_20221125</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorailCPP_20221125\TutorailCPP_20221125GameModeBase.h">
+      <Filter>Source\TutorailCPP_20221125</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

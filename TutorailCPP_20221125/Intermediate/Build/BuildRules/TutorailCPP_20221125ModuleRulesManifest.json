@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\KID\\Projects\\Unreal\\Unreal_TutorialCPP_20221125\\TutorailCPP_20221125\\Source\\TutorailCPP_20221125\\TutorailCPP_20221125.Build.cs",
+		"C:\\KID\\Projects\\Unreal\\Unreal_TutorialCPP_20221125\\TutorailCPP_20221125\\Source\\TutorailCPP_20221125.Target.cs",
+		"C:\\KID\\Projects\\Unreal\\Unreal_TutorialCPP_20221125\\TutorailCPP_20221125\\Source\\TutorailCPP_20221125Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

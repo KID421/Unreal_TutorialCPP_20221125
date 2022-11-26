@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TutorailCPP_20221125",
+			"Path": "C:\\KID\\Projects\\Unreal\\Unreal_TutorialCPP_20221125\\TutorailCPP_20221125\\Source\\TutorailCPP_20221125.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TutorailCPP_20221125Editor",
+			"Path": "C:\\KID\\Projects\\Unreal\\Unreal_TutorialCPP_20221125\\TutorailCPP_20221125\\Source\\TutorailCPP_20221125Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

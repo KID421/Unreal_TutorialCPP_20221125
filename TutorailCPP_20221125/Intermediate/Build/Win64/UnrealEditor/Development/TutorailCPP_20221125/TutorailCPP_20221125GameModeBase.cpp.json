@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\kid\\projects\\unreal\\unreal_tutorialcpp_20221125\\tutorailcpp_20221125\\source\\tutorailcpp_20221125\\tutorailcpp_20221125gamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kid\\projects\\unreal\\unreal_tutorialcpp_20221125\\tutorailcpp_20221125\\intermediate\\build\\win64\\tutorailcpp_20221125editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\kid\\projects\\unreal\\unreal_tutorialcpp_20221125\\tutorailcpp_20221125\\intermediate\\build\\win64\\unrealeditor\\development\\tutorailcpp_20221125\\definitions.tutorailcpp_20221125.h",
+            "c:\\kid\\projects\\unreal\\unreal_tutorialcpp_20221125\\tutorailcpp_20221125\\source\\tutorailcpp_20221125\\tutorailcpp_20221125gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\kid\\projects\\unreal\\unreal_tutorialcpp_20221125\\tutorailcpp_20221125\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorailcpp_20221125\\tutorailcpp_20221125gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
